@@ -1,5 +1,5 @@
 # check-availability
-<!-- Ref: https://www.youtube.com/watch?v=oEfszAWQMcs&t=432s -->
+# Ref: https://www.youtube.com/watch?v=oEfszAWQMcs&t=432s
 This is a python script that helps you to find the availability of a product on a specific url
 
 
