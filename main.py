@@ -1,6 +1,5 @@
 #!/usr/local/bin/python3
 from datetime import datetime
-from logging import NullHandler
 from bs4 import BeautifulSoup
 import time
 import requests
